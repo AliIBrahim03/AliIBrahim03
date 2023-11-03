@@ -1,3 +1,4 @@
+HI, I'm Ali
 🎓 Studying Computer Sciences at the Lebanese University.
 🌱 I’m currently learning algorithms, data structures, and software development methodologies.
 💡 I love exploring new technologies and building software applications that make a difference.
